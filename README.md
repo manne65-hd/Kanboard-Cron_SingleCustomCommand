@@ -6,7 +6,7 @@ Skeleton for a plugin that adds ONE new custom command to the CLI-interface
 ### Purpose of this plugin
 This is not meant to be a _(really)_ productive plugin, but rather the starting point if you want to develop a plugin that is supposed to add ONE custom command to the CLI-interface of Kanboard.
 
-I made this, while trying to figure out how make a plugin that can act as a CRON-command and thought I'd share it here, so that others can also use and _(if necessary)_ improve this skeleton.
+I made this, while trying to figure out how to make a plugin that can act as a CRON-command and thought I'd share it here, so that others can also use and _(if necessary)_ improve this skeleton.
 
 If you plan to make a plugin that is supposed to add more than ONE custom command to the CLI-interface ... [take a look at another version of this skeleton.](https://github.com/manne65-hd/Kanboard-Cron_ManyCustomCommands)
 
